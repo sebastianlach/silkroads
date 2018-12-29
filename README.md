@@ -1,0 +1,2 @@
+# etherntities
+Etherntities python package
