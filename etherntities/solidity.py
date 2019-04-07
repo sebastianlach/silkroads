@@ -1,6 +1,6 @@
 from glob import iglob
 
-from solc import compile_files
+from solcx import compile_files
 
 
 class SolidityContracts(object):
