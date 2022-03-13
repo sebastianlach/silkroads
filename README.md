@@ -1,7 +1,7 @@
-# etherntities
-Etherntities python package
+# `silkroads`
+Etherum dapp
 
-#### Usage
+## Usage
 ```bash
 invoke --list
 invoke clean    # Clean up cache files.
